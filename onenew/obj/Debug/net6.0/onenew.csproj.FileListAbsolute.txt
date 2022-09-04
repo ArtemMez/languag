@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\bin\Debug\net6.0\onenew.exe
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\bin\Debug\net6.0\onenew.deps.json
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\bin\Debug\net6.0\onenew.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\bin\Debug\net6.0\onenew.dll
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\bin\Debug\net6.0\onenew.pdb
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.dll
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\refint\onenew.dll
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.pdb
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\onenew.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\языки программирования\language\1\onenew\obj\Debug\net6.0\ref\onenew.dll
